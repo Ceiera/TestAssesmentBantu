@@ -4,6 +4,15 @@
 Berikut adalah program untuk assesment BANTU Backend Dev
 
 
+## Tech Stack
+
+**Server:** Express, NodeJS
+
+**DB:** MongoDB
+
+**ORM:** Prisma
+
+
 ## Environment Variables
 
 cek example env
@@ -32,9 +41,13 @@ Run the program
 ```bash
   yarn run dev 
 ```
+
+Default Address localhost:5000
+```bash
+  localhost:5000 
+```
  
     
 ## Documentation
 
 Import postman.json from project folder
-
